@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Joshua Kelly",
+  "description": "FreeCodeCamp backend certification project",
+  "keywords": ["freecodecamp", "backend", "nodejs", "api", "certification"],
+  "license": "MIT",
+  "version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
